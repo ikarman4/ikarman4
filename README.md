@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ian Karman (@ikarman4) and I am passionate about data science within the world of neurotechnology and sports performance. 
+Hi, I’m Ian Karman (@ikarman4) and I am passionate about data science within the world of neurotechnology and sports performance. 
 I have worked across many languages and platforms but have the most extensive experience with Python and MATLAB. I have over 1 year of professional experience and
 just over 3 years in academic experience. I am confident with packages such as NumPy, Pandas, SciPy, Matplotlib, scikit-learn and am able to adapt to any new
 concurrent packages and libraries. In the past year I have had the experience to construct an entire pipeline for in house data reports for BrainCo. This involved

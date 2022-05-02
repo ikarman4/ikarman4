@@ -5,7 +5,7 @@ concurrent packages and libraries. In the past year I have had the experience to
 accessing and pulling from an API, cleaning and prepping raw data, sorting storage structure across API metrics, and creating a visualization toolset for
 displaying the desired metrics and timelines along with categorizing and binning parameters. This datapipeline was a great opportunity for myself to discover working
 with a coworker on a remote software project. I quickly learned how to pull, stage, commit, and push in Git while I found strength in working with a team member.
-My current learning interests are using more advanced machine learning libraries and tools such as TensorFlow in order to add scalability into my workflow.
+My current learning interests are using more advanced machine learning libraries and tools as well as studying deep learning.
 
 
 <!---
